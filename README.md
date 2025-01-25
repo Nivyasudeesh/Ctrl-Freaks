@@ -2,13 +2,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Ctrl Freaks
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nivya Sudeesh - LBS Institute of Technology for Women
+- Member 2: Harini M - LBS Institute of Technology for Women
+- Member 3: Sruthy Sunil - LBS Institute of Technology for Women
 
 ### Hosted Project Link
 [mention your project hosted project link here]
