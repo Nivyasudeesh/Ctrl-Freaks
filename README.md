@@ -48,7 +48,8 @@ Report page
 
 
 # Build Photos
-c:\Users\admin\Downloads\Snapchat-1311836315.jpg
+![Snapchat-1311836315 (1)](https://github.com/user-attachments/assets/82e37d45-6453-4eec-bdaa-e38d90967b11)
+
 
 ## Team Contributions
 - Nivya Sudeesh: Idea Pitching
