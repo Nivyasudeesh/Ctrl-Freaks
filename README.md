@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# Budget Buddy 🎯
 
 
 ## Basic Details
@@ -14,86 +14,46 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+This is an expense tracker web application using Streamlit and SQLite, allowing users to register, log in, manage expenses, view reports, and add personalized notes. It supports functionalities like expense addition, editing, deletion, and generates visual reports (e.g., pie charts and bar charts) for spending analysis. Additionally, users can save and view personal notes tied to their accounts.
 
-### The Problem statement
-[What ridiculous problem are you solving?]
-
-### The Solution
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Language used:- Python
+- Frameworks used:- Streamlit, SQLite
+- Libraries Used:- Pandas,Matplotlib
+- Tools Used:- SQLite3 Database,Python Environment,Streamlit Web App
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![alt text](image.png)
+Login Page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![alt text](image-1.png)
+Expense Page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![alt text](image-2.png)
+Add Expense Page
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![alt text](image-3.png)
 
-For Hardware:
+![alt text](image-5.png)
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![alt text](image-6.png)
+Report page
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![Team]c:\Users\admin\Downloads\Snapchat-1311836315.jpg
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nivya Sudeesh: Idea Pitching
+- Harini M: Coding
+- Sruthy Sunil: Testing And Deployment
 
 ---
 Made with ❤️ at TinkerHub
